@@ -1,4 +1,6 @@
 # Adidas Sales Analysis
 
-1. 
+1.
+2. 
+- 
 
